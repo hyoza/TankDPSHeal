@@ -1,9 +1,9 @@
 <h1 id="tankdpsheal">탱딜힐 서바이벌. TankDPSHeal Survival</h1>
 <p>여러분과 Discord를 통해 대화하고 싶습니다.
 연락주세요~ 항상 기다리겠습니다.</p>
-<p><a href="https://discord.gg/cmbKXdXwEm">디스코드 주소</a>.</p>
-<p><a href="https://discord.gg/cmbKXdXwEm">구글 플레이 스토어 주소</a>.</p>
-<p><a href="https://discord.gg/cmbKXdXwEm">에플 앱 스토어 주소</a>.</p>
+<p><a href="https://discord.gg/cmbKXdXwEm">디스코드!</a>.</p>
+<p><a href="https://discord.gg/cmbKXdXwEm">구글 플레이 스토어~</a>.</p>
+<p><a href="https://discord.gg/cmbKXdXwEm">에플 앱 스토어!</a>.</p>
 <h1 id="tankdpsheal-">탱딜힐 서바이벌 게임의 개인정보 처리방침.</h1>
 <p>랜덤 성장 디펜스는 아무런 권한을 요구하지 않으며, 개인정보를처리하지 않고, 개인을 식별 할 수 있는 정보를 저장하지 않습니다.</p>
 <p>게임 내에 저장하는 데이터는 게임 캐릭터 정보가 유일하며, 게임 캐릭터 정보는 익명이므로 개인을 구분 할 수 없습니다.</p>
