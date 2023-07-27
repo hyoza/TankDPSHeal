@@ -9,3 +9,8 @@
 <p>게임 내에 저장하는 데이터는 게임 캐릭터 정보가 유일하며, 게임 캐릭터 정보는 익명이므로 개인을 구분 할 수 없습니다.</p>
 <p>사용자 간의 랭크를 비교하거나, 업적을 달성하기 위해 Google play games이나 Apple game center 제공하는 기능을 사용하기 위한 권한입니다.</p>
 <p>위의 용도 외에는 일체 다른 용도로 사용되지 않으며, 이 정책은 앞으로 변동되지 않음을 명시합니다.</p>
+
+
+<h1 id="tankdpsheal">개발사 정보. Developer Information, contact information.</h1>
+<p> 주소 : 대전광역시 서구 변정4길 39 삼덕빌라트, 우편번호 : 35316, 이메일 : zweiii@naver.com </p>
+<p> 39, Byeonjeong 4-gil, Seo-gu, Daejeon, Republic of Korea, Post: 35316, mail: zweiii@naver.com </p>
